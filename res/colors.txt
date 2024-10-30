@@ -1,0 +1,37 @@
+main div -#001F3F
+body - #EAD8B1
+skills button color - #222831
+html 5 -#FF5722
+js - #FFDF00
+css - #2196F3
+android - #A6D864
+c++ - #004482
+
+
+facebook     link= https://www.facebook.com/Morallesson.camasis
+linked-in    link=https://www.linkedin.com/in/juan-rafael-camasis-a17552248/
+gmail        link = https://mail.google.com/mail/u/0/#inbox
+github       link = https://github.com/SeigiMondragon
+
+
+scrolled color: :#c9a861 ;
+cv: https://drive.google.com/file/d/1187hcRWt3y-6oGIxwZHemx-yMupi-k-l/view?usp=sharing
+
+
+
+font {
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+</style>
+
+
+
+
+}
+
+
+copyright symbol : ©
+Copyright © 2024 Personal Portfolio
